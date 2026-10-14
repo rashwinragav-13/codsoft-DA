@@ -1,0 +1,26 @@
+
+======================================================================
+              TITANIC CUSTOMER MARKETING STRATEGY REPORT              
+======================================================================
+1. High-Value VIP Segment (Top 10% Spenders, Fare >= £81.86):
+   - Insight: 49 customers generate 49.6% of total revenue. All belong to First Class.
+   - Strategy: Launch private loyalty suites, early boarding, exclusive lounge 
+     access, and personalized onboard concierge services.
+
+2. Geographical Market Focus (Cherbourg vs. Southampton):
+   - Insight: Cherbourg passengers have the highest average fare (£68.68) 
+     compared to Southampton (£28.27) and Queenstown (£12.00).
+   - Strategy: Position luxury cruise packages and high-tier cabin marketing in 
+     Cherbourg; run volume-based family and group ticketing promotions in Southampton.
+
+3. Demographic Opportunity (Seniors & Middle-Aged):
+   - Insight: Senior travelers (55+) in First Class exhibited the highest average 
+     expenditure (£130+).
+   - Strategy: Offer premium wellness retreats, curated dining packages, and 
+     accessible luxury amenities targeted at older demographics.
+
+4. Budget Maximization (Third Class Segment):
+   - Insight: Comprises over 51% of total passengers (240 / 467) at £12.45 avg fare.
+   - Strategy: Introduce ancillary upgrades (meal passes, baggage allowances, 
+     activity packages) to increase revenue per passenger.
+======================================================================
